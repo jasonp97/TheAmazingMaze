@@ -1,0 +1,14 @@
+* HOW TO PLAY:
+  Move the player (white point) around the maze using arrow keys.
+  Collect stars to earn points.
+  Avoid touching enemies (blue dots).
+  You have 3 lives.
+  You will be brought to the respawn point each time you die.
+  The green point is the destination.
+  Help the player reaching the destination to win the game.
+
+* AUTHOR:
+  Jason Pham
+
+* VERSION
+  v1.0
